@@ -1,0 +1,7 @@
+[submodule "juniormateusblog/themes/hugo-coder"]
+	path = juniormateusblog/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "juniormateusblog/public"]
+	path = juniormateusblog/public
+	url = git@github.com:junior-mateus/junior-mateus.github.io.git
+	branch = main
